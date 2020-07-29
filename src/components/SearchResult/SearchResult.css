@@ -1,0 +1,11 @@
+.container-title{
+     background-color:#1fb2e7;
+     height:40px;
+     color: white;
+}
+
+@media screen and (max-width: 768px) {
+   .container-title {
+     background-color:#282c34;
+   } 
+}
